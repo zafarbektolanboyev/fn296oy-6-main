@@ -1,0 +1,25 @@
+.swap{
+    border: 1px solid black;
+    width: 400px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.swap input{
+    width: 100%;
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.swap button{
+    background-color: blue;
+    width: 100%;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.info{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}

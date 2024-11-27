@@ -1,0 +1,25 @@
+.password{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    width: 400px;
+}
+.psIn{
+    width: 100%;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.btn4{
+    width: 100%;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+.password h3{
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
